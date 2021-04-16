@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## app description 
-Many farmers in India don’t have access to the vast information available on the Internet about crop growing practices, government schemes, market prices and many more. Our project aim is to build a mobile application that will assemble this information from various reputable sources and present it to the user(farmer) in an intuitive way  and that in local languages and a friendly UI for a smooth user interface.
+Many farmers in India have little access to extensive internet information on crop production activities, government schemes, market rates and so on. Our goal of our project is to create an app that gathers this information from different reputable sources and presents it intuitively to the user (farmer) and in local languages and a friendly interface for a smooth user interface.
