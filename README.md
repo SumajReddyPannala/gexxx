@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## app description 
+Many farmers in India don’t have access to the vast information available on the Internet about crop growing practices, government schemes, market prices and many more. Our project aim is to build a mobile application that will assemble this information from various reputable sources and present it to the user(farmer) in an intuitive way  and that in local languages and a friendly UI for a smooth user interface.
